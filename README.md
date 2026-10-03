@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Chetan 👋
 
-<!--
-**chetankrish2208-nuthalapati/chetankrish2208-nuthalapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Class 12 student from Hyderabad interested in **Data Science, Artificial Intelligence and Machine Learning**.
 
-Here are some ideas to get you started:
+### 🧠 Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Data Science
+* Artificial Intelligence & Machine Learning
+* Python
+* Data Analysis
+* Sports Analytics
+
+### 🛠️ Skills
+
+**Languages:** Python, SQL
+**Libraries & Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Orange Data Mining
+**Concepts:** Machine Learning, Data Analysis, Data Visualization, Clustering, Prediction
+
+### 📊 Projects
+
+* **Air Quality Prediction** — CO concentration prediction using Python and Linear Regression
+* **Road Accident Severity Prediction** — Machine learning classification of accident severity
+* **Volleyball Player Clustering** — K-Means clustering of volleyball player performance
+* **Movie Recommendation System** — Content-based recommendations using TF-IDF and cosine similarity
+* **Student Attendance Prediction** — Machine learning models for attendance prediction
+
+### 🎯 Currently Learning
+
+Data Science, Machine Learning and Python development.
+
+### 📫 Connect
+
+GitHub: [@chetankrish2208-nuthalapati](https://github.com/chetankrish2208-nuthalapati)
